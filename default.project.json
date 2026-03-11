@@ -1,0 +1,21 @@
+{
+  "name": "dad-roblox-demo",
+
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "Coins": {
+        "$path": "assets/Coins.rbxm"
+      }
+    },
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    }
+  }
+} 
